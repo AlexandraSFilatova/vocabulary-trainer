@@ -1,5 +1,4 @@
 gtts
 playsound==1.2.2
-IPython.display
 random
 datetime
